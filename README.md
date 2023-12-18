@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+💫 I'm Asaf Zorea
+🔭 I’m currently working on Prisma Photonics, startup for distributed acoustic sensing
+👯 I’m also one of the developers of [noisereduce](https://github.com/timsainb/noisereduce), where we create signal enhancement software.
+📫 How to reach me: zoreasaf@gmail.com, or asafzorea on [Twitter](https://twitter.com/AsafZorea), 
 <!--
 **nuniz/nuniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
