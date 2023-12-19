@@ -6,7 +6,7 @@
 
 👯 I’m also one of the developers of [noisereduce](https://github.com/timsainb/noisereduce), where we create signal enhancement software.
 
-📫 How to reach me: zoreasaf@gmail.com, or asafzorea on [Linkedin]([in/asaf-zorea](https://www.linkedin.com/in/asaf-zorea/)) + [Twitter](https://twitter.com/AsafZorea), 
+📫 How to reach me: zoreasaf@gmail.com, or asafzorea on [Linkedin]([in/asaf-zorea](https://www.linkedin.com/in/asaf-zorea/)).
 <!--
 **nuniz/nuniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
