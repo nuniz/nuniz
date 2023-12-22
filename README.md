@@ -10,7 +10,7 @@
 
 ### 🖥️ Open-Source Projects
 <table>
-<tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
+<tr><th>Open Source </th>
 <tr><td>
 
 | Title | Stars | Technologies | Description |
