@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-💫 I'm Asaf Zorea
+💫 I'm I'm Asaf Zorea, a Research Engineer with a particular passion for:
 
-🔭 I’m currently working on Prisma Photonics, startup for distributed acoustic sensing
+- 🎙️ Speech and Audio
+- 🌐 Array Signal Processing
+- 🖼️ Image Analysis and Processing
+- 🤖 Deep Learning
+- 🛠️ Electronic and Embedding Systems
+- 🧠 Neural and Biological Models
 
-👯 I’m also one of the developers of [noisereduce](https://github.com/timsainb/noisereduce), where we create signal enhancement software.
-
-📫 How to reach me: zoreasaf@gmail.com, or asafzorea on [Linkedin]([in/asaf-zorea](https://www.linkedin.com/in/asaf-zorea/)).
+📫 How to reach me: Asaf Zorea on [LinkedIn](https://www.linkedin.com/in/asaf-zorea/).
 
 ### 🖥️ Open-Source Projects
-<table>
-<tr><th>Open Source </th>
+
 | Title | Stars | Technologies | Description |
 | -- | -- | -- | -- |
 | [noisereduce](https://github.com/timsainb/noisereduce) | <img alt="Stars" src="https://img.shields.io/github/stars/timsainb/noisereduce?style=flat-square&labelColor=black&logo=github" align="center"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) | Noise reduction library in NumPy and PyTorch. |
@@ -18,8 +20,7 @@
 | [ParaFilt](https://github.com/nuniz/ParaFilt) | <img alt="Stars" src="https://img.shields.io/github/stars/nuniz/ParaFilt?style=flat-square&labelColor=black&logo=github" align="center"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) | Parallel filtering in PyTorch. |
 | [blind_rt60](https://github.com/nuniz/blind_rt60) | <img alt="Stars" src="https://img.shields.io/github/stars/nuniz/blind_rt60?style=flat-square&labelColor=black&logo=github" align="center"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) | Blind estimation of reverberation time. |
 | [Brain-Tumor-Image-Synthesis-and-Classification](https://github.com/nuniz/Brain-Tumor-Image-Synthesis-and-Classification) | <img alt="Stars" src="https://img.shields.io/github/stars/nuniz/Brain-Tumor-Image-Synthesis-and-Classification?style=flat-square&labelColor=black&logo=github" align="center"/> | ![MATLAB](https://img.shields.io/badge/MATLAB-black?style=flat-square&logo=mathworks) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) | Image synthesis and classification of brain tumors. |
-</td><td>
-
+| [tf1-phase-aware-speech-enhancement](https://github.com/ContigoAI/tf1-phase-aware-speech-enhancement) | <img alt="Stars" src="https://img.shields.io/github/stars/ContigoAI/tf1-phase-aware-speech-enhancement?style=flat-square&labelColor=black&logo=github" align="center"/> | ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow) | Phase-aware speech enhancement in TensorFlow 1.5. |
 
 <!--
 **nuniz/nuniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
