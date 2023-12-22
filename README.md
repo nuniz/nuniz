@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💫 I'm I'm Asaf Zorea, a Research Engineer with a particular passion for:
+💫 I'm Asaf Zorea, a Research Engineer with a particular passion for:
 
 - 🎙️ Speech and Audio
 - 🌐 Array Signal Processing
