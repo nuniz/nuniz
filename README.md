@@ -3,7 +3,7 @@
 💫 I'm Asaf Zorea, a Research Engineer with a particular passion for:
 
 - 🤖 Machine Learning and Software for AI
-- 🎙️ Speech and Audio Technologies
+- 🎙️ Speech and Audio
 - 🧠 Neural and Biological Models, Particularly for Hearing Mechanisms
 - 🛠️ Hobbies: Electronic, Multidisciplinary, and Embedded Systems
 
