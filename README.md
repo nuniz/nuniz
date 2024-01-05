@@ -7,7 +7,7 @@
 - 🧠 Neural and Biological Models, Particularly for Hearing Mechanisms
 - 🛠️ Hobbies: Electronic, Multidisciplinary, and Embedded Systems
 
-Embracing [KISS](https://en.wikipedia.org/wiki/KISS_principle) approach.
+In my work I embrace [KISS](https://en.wikipedia.org/wiki/KISS_principle) philosophy.
 
 📫 How to reach me: Asaf Zorea on [LinkedIn](https://www.linkedin.com/in/asaf-zorea/).
 
