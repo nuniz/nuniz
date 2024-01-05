@@ -2,9 +2,9 @@
 
 💫 I'm Asaf Zorea, a Research Engineer with a particular passion for:
 
-- 🤖 Machine Learning and Software Development for AI
+- 🤖 Machine Learning and Software for AI
 - 🎙️ Speech and Audio Technologies
-- 🧠 Neural and Biological Models for Hearing Mechanisms
+- 🧠 Neural and Biological Models, Particularly for Hearing Mechanisms
 - 🛠️ Hobbies: Electronic, Multidisciplinary, and Embedded Systems
 
 Embracing [KISS](https://en.wikipedia.org/wiki/KISS_principle) approach.
